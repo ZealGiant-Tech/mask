@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=mask
+Comment=mycomment
+Exec=/home/zealgiant/SocailDistance/GDXM
+Icon=/home/zealgiant/SocailDistance/images/zgtapp.ico
+Terminal=false
+Type=Application
+Categories=Application;
