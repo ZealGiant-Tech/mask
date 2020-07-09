@@ -1,0 +1,6 @@
+classes= 80
+train  = /home/zealgiant/data/coco/trainvalno5k.txt
+valid  = coco_testdev
+names = /home/zealgiant/darknet/data/coco.names
+backup = /home/zealgiant/backup/
+

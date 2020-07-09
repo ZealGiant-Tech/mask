@@ -1,0 +1,6 @@
+classes= 8
+train  = /home/zealgiant/darknet/voc/train.txt
+valid  = /home/zealgiant/darknet/voc/2018_test.txt
+names = data/voc.names
+backup = backup
+

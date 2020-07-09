@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/zealgiant/darknet/voc/stone/train.txt
+valid  = /home/zealgiant/darknet/voc/stone/2019_test.txt
+names = data/voc_stone.names
+backup = backup
+

@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/zealgiant/darknet/voc/ChinaElec/train.txt
+valid  = /home/zealgiant/darknet/voc/ChinaElec/2019_test.txt
+names = data/voc_ChinaElec.names
+backup = backup
+

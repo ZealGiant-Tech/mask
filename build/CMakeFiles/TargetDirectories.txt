@@ -1,0 +1,3 @@
+/home/zealgiant/MaskCheck/build/CMakeFiles/rebuild_cache.dir
+/home/zealgiant/MaskCheck/build/CMakeFiles/edit_cache.dir
+/home/zealgiant/MaskCheck/build/CMakeFiles/capture.dir
